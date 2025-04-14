@@ -1,0 +1,722 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "48fc7c09-eb36-47c9-8f79-efa26a339c11")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 80.01 102.87) (xy 102.87 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "120e1040-909c-457e-a30f-4ec5a30368e0")
+	)
+	(wire
+		(pts
+			(xy 80.01 119.38) (xy 102.87 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13aefb97-4deb-4f58-a40c-2c37233b9c0d")
+	)
+	(wire
+		(pts
+			(xy 168.91 100.33) (xy 195.58 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34417994-43b5-4419-b9b4-d03fa0d2b234")
+	)
+	(wire
+		(pts
+			(xy 168.91 92.71) (xy 195.58 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "375e2eaa-8b1d-4fb7-bab4-125883e19373")
+	)
+	(wire
+		(pts
+			(xy 80.01 121.92) (xy 102.87 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c61b753-04ab-4289-878d-e2d64624abce")
+	)
+	(wire
+		(pts
+			(xy 80.01 110.49) (xy 102.87 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f290e11-8506-4dc0-ac48-0592964a7d94")
+	)
+	(wire
+		(pts
+			(xy 80.01 87.63) (xy 102.87 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d39f730-9634-4a41-8d7f-c8dd4b4fede6")
+	)
+	(wire
+		(pts
+			(xy 80.01 113.03) (xy 102.87 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e9ed0ef-f78b-46ac-9c6b-d646b268cca9")
+	)
+	(wire
+		(pts
+			(xy 80.01 90.17) (xy 102.87 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ee2722d-63f7-4176-a47a-ee0200a091b7")
+	)
+	(wire
+		(pts
+			(xy 80.01 93.98) (xy 102.87 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74f59597-3c94-435e-8981-f2ce0912142c")
+	)
+	(wire
+		(pts
+			(xy 168.91 95.25) (xy 195.58 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d4a74f3-192a-4117-bd8a-3fe70c812144")
+	)
+	(wire
+		(pts
+			(xy 80.01 96.52) (xy 102.87 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6a1cdce-e0b6-4065-a7f1-8f50b22be4e1")
+	)
+	(wire
+		(pts
+			(xy 168.91 85.09) (xy 195.58 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce1bdd6b-8087-466c-a522-f7d298f1055b")
+	)
+	(wire
+		(pts
+			(xy 80.01 100.33) (xy 102.87 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d52892bb-43e6-4ff1-a487-f1845e9c0f45")
+	)
+	(wire
+		(pts
+			(xy 80.01 81.28) (xy 102.87 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d98b8951-10b8-4e8b-b1c1-302753dfc4e7")
+	)
+	(wire
+		(pts
+			(xy 80.01 83.82) (xy 102.87 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f041268f-a1ca-4279-8d45-97449d97a6b5")
+	)
+	(wire
+		(pts
+			(xy 168.91 87.63) (xy 195.58 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f773db71-34a2-4ed9-8d60-1a50235277fd")
+	)
+	(wire
+		(pts
+			(xy 168.91 102.87) (xy 195.58 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe3680a6-c156-4505-9d23-aa86a1137e9d")
+	)
+	(sheet
+		(at 195.58 74.93)
+		(size 33.02 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3a718b08-3a4c-4871-a518-bf6544ffc2e8")
+		(property "Sheetname" "USB CONNECTOR"
+			(at 195.58 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB CONNECTOR.kicad_sch"
+			(at 195.58 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_SSTXN" output
+			(at 195.58 95.25 180)
+			(uuid "b2c92648-9f57-4cad-b741-69093feb4843")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" output
+			(at 195.58 85.09 180)
+			(uuid "2a48358f-dd08-493a-95a0-4f2a6adc7444")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_SSTXP" output
+			(at 195.58 92.71 180)
+			(uuid "a8218b9d-ce10-48c5-9513-95ae100a9d8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DN" output
+			(at 195.58 87.63 180)
+			(uuid "1f4df3e6-225a-4e1b-a3ea-9aa8539b7962")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_SSRXN" output
+			(at 195.58 102.87 180)
+			(uuid "4c1ad947-22be-40b7-86c8-b9e2108d34ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_SSRXP" output
+			(at 195.58 100.33 180)
+			(uuid "fa5f38fe-04ab-4b5c-9ef8-2d719e29e948")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "FC HDMI CAPTURE CARD"
+				(path "/48fc7c09-eb36-47c9-8f79-efa26a339c11"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 25.4)
+		(size 129.54 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "62a620c8-eee4-4337-a7fc-a76820407f15")
+		(property "Sheetname" "POWER SUPPLY"
+			(at 39.37 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER SUPPLY.kicad_sch"
+			(at 39.37 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FC HDMI CAPTURE CARD"
+				(path "/48fc7c09-eb36-47c9-8f79-efa26a339c11"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 74.93)
+		(size 66.04 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a563bed7-38d1-4491-bafd-31f7a26e9fb2")
+		(property "Sheetname" "CAPTURE CONTROLLER"
+			(at 102.87 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAPTURE CONTROLLER.kicad_sch"
+			(at 102.87 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "HDMI_RX1N" input
+			(at 102.87 90.17 180)
+			(uuid "42ad9a46-2205-4c90-a0d4-a83d599339ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_RX1P" input
+			(at 102.87 87.63 180)
+			(uuid "59c38ba3-4997-473b-8182-139d25afaa13")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_RX2N" input
+			(at 102.87 96.52 180)
+			(uuid "394c475a-223e-4f01-927e-f5193d8168be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_RX2P" input
+			(at 102.87 93.98 180)
+			(uuid "9c426c6b-31e8-4e97-91a6-7b3504b3aafb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_CP" input
+			(at 102.87 100.33 180)
+			(uuid "9ddd01f3-401f-410e-af28-7eed6335be1b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_CN" input
+			(at 102.87 102.87 180)
+			(uuid "4c9384d8-9b42-4e24-94ba-a8a337930784")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_RX0P" input
+			(at 102.87 81.28 180)
+			(uuid "44d1d182-59f6-402e-83c8-47f1ff027229")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_RX0N" input
+			(at 102.87 83.82 180)
+			(uuid "0e43f95b-362d-43c5-a8a0-472631e8c9d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_DET" input
+			(at 102.87 119.38 180)
+			(uuid "e726e53d-6783-45e0-886e-b7536cf1ac78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_HPD" input
+			(at 102.87 121.92 180)
+			(uuid "f1bc8f51-fb7a-4b75-b62d-2445ecd3e765")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_I2C_SDA" input
+			(at 102.87 113.03 180)
+			(uuid "9a1377bc-95cc-46c1-95ff-061190a2d98a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_I2C_SCL" input
+			(at 102.87 110.49 180)
+			(uuid "83799e97-4211-43f9-8fe7-be5fe2461c0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" output
+			(at 168.91 85.09 0)
+			(uuid "aa5e9d3b-2800-48f0-b7ca-87a970f7b02f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_SSRXN" output
+			(at 168.91 102.87 0)
+			(uuid "0c0ae7d9-87bf-4a26-a1b7-b4869fcae2e1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DN" output
+			(at 168.91 87.63 0)
+			(uuid "5eb6b9a3-fdea-4507-bb89-6936482d6e2c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_SSTXP" output
+			(at 168.91 92.71 0)
+			(uuid "46c2c5d7-4cee-4cc0-96f6-73488b268c91")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_SSRXP" output
+			(at 168.91 100.33 0)
+			(uuid "29f78f96-4d18-44c4-9ede-5e3d9a71d380")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_SSTXN" output
+			(at 168.91 95.25 0)
+			(uuid "71641460-dfc9-41f9-ac5a-840fcd138cc3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "FC HDMI CAPTURE CARD"
+				(path "/48fc7c09-eb36-47c9-8f79-efa26a339c11"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 74.93)
+		(size 40.64 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bf81ba47-730a-43a6-a5d5-3433aecd3647")
+		(property "Sheetname" "HDMI CONNECTOR"
+			(at 39.37 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HDMI CONNECTOR.kicad_sch"
+			(at 39.37 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "HDMI_RX1N" output
+			(at 80.01 90.17 0)
+			(uuid "9af95d4c-f30f-40ee-8a6b-26b36a91f608")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_HPD" output
+			(at 80.01 121.92 0)
+			(uuid "b883d731-5e21-4183-95df-836527fea7cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_DET" output
+			(at 80.01 119.38 0)
+			(uuid "fa83c505-c5e2-4c29-8e9f-e1eba6c97e7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_I2C_SDA" output
+			(at 80.01 113.03 0)
+			(uuid "78d3fb58-d790-4e9f-a2b1-903457ae6b4c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_I2C_SCL" output
+			(at 80.01 110.49 0)
+			(uuid "e581dbb1-8bdf-4c90-ae4c-705fc0621e23")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_RX0P" output
+			(at 80.01 81.28 0)
+			(uuid "2ab21b3f-fe4f-4fa1-b43a-d11ae53f7132")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_RX2P" output
+			(at 80.01 93.98 0)
+			(uuid "187b3a21-c917-4091-8fe6-04c1924a7f61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_RX0N" output
+			(at 80.01 83.82 0)
+			(uuid "dc382df6-90f2-4b2c-90d8-92bba6dc8ae0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_RX1P" output
+			(at 80.01 87.63 0)
+			(uuid "4006539d-34e1-46f5-a7c6-38a5901787b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_CP" output
+			(at 80.01 100.33 0)
+			(uuid "6a53e2cb-8c75-43d1-b5ae-1d580f9a7b50")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_CN" output
+			(at 80.01 102.87 0)
+			(uuid "adf7f555-f117-497b-b828-3d797ce725cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HDMI_RX2N" output
+			(at 80.01 96.52 0)
+			(uuid "e634c189-3ac3-4344-adc4-f3e55c7bfd88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "FC HDMI CAPTURE CARD"
+				(path "/48fc7c09-eb36-47c9-8f79-efa26a339c11"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
